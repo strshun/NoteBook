@@ -2,7 +2,7 @@ UDP套接字编程：
 
 首先介绍UDP套接字服务端和客户端的工作模式，如图所示：
 
-![img](/Users/taoshun/NoteBook/windows编程/103221_DkNv_147532.jpg)
+![img](./103221_DkNv_147532.jpg)
 
 
 
@@ -37,7 +37,7 @@ int    sendto(
 
 
 
-![img](/Users/taoshun/NoteBook/windows编程/103355_1M14_147532.jpg)
+![img](./103355_1M14_147532.jpg)
 
 Server Code:
 

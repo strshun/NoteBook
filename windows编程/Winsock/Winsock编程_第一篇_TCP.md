@@ -4,7 +4,7 @@
 
 
 
-![img](/Users/taoshun/NoteBook/windows编程/104321_wltB_147532.jpg)
+![img](./104321_wltB_147532.jpg)
 
 #### 2. 示例代码
 
@@ -107,7 +107,7 @@ int main(int argc, char* argv[])
 
 
 
-![img](/Users/taoshun/NoteBook/windows编程/104335_kfU7_147532.jpg)
+![img](./104335_kfU7_147532.jpg)
 
 
 
